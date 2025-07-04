@@ -191,6 +191,7 @@ header {
 .spec-section {
   background-color: #f4f4fd;
   padding-top: 76px;
+  padding-bottom: 76px;
 }
 
 .spec-title {
@@ -225,4 +226,29 @@ header {
   letter-spacing: -0.02em;
   color: rgba(12, 12, 12, 0.7);
   margin-bottom: 24px;
+}
+
+/* ADVANTAGES */
+
+.advantages {
+  margin-top: 48px;
+}
+
+.advantages-list {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+
+.adv-list-item {
+  border-radius: 16px;
+  border: 1px solid #1f3cd4;
+}
+
+.adv-item-title {
+  margin-bottom: 24px;
+}
+
+.adv-card-container {
+  padding: 12px;
 }
