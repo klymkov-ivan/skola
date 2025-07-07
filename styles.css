@@ -47,6 +47,7 @@ img {
 
 body {
   font-family: "Noto-sans", sans-serif;
+  margin: 0;
 }
 
 header {
@@ -192,6 +193,7 @@ header {
   background-color: #f4f4fd;
   padding-top: 76px;
   padding-bottom: 76px;
+  margin: 0 auto;
 }
 
 .spec-title {
@@ -205,7 +207,6 @@ header {
 }
 
 .spec-list-item {
-  width: 320px;
   height: 480px;
   background-color: #fff;
   border-radius: 16px;
