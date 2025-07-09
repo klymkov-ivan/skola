@@ -200,7 +200,7 @@ header {
   margin: 0 auto;
 }
 
-.spec-title {
+.title {
   margin-bottom: 48px;
 }
 
@@ -256,4 +256,8 @@ header {
 
 .adv-card-container {
   padding: 12px;
+}
+
+.adv-image {
+  margin-bottom: 8px;
 }
