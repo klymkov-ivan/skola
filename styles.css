@@ -237,6 +237,7 @@ header {
 
 .advantages {
   margin-top: 48px;
+  margin-bottom: 76px;
 }
 
 .advantages-list {
@@ -250,7 +251,7 @@ header {
   border: 1px solid #1f3cd4;
 }
 
-.adv-item-title {
+.card-item-title {
   margin-bottom: 24px;
 }
 
@@ -260,4 +261,21 @@ header {
 
 .adv-image {
   margin-bottom: 8px;
+}
+
+/***************************** INFO *****************************/
+
+.info-section {
+  background-color: #f4f4fd;
+  padding: 48px 0;
+}
+
+.news-item {
+  background-color: #fff;
+  border-radius: 16px;
+  padding: 24px;
+}
+
+.info-img {
+  margin-bottom: 16px;
 }
